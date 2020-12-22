@@ -13,25 +13,13 @@ StarCraft2 Bot for CMPUT 350 Couse Project at University of Alberta.
 
 3. Download and install [CMake](https://cmake.org/download/).
 
-4. ~~A compiler with C++14 support.~~
-
-5. ~~Windows: Download and install Visual Studio ([2019](https://www.visualstudio.com/downloads/) or older).~~
-
-6. ~~Linux: Install 'gcc-c++'.~~
-
-7. ~~Linux: Install the 'make' utility.~~
-
-8. ~~OS X: Install XCode.~~
-
-9. ~~OS X: Install XCode command-line tools.~~
-
 
 ## Build instructions
 OS X(cmdline)
 
 ```
 # Get the project.
-$ git clone --recursive git@github.com:qianyyu/invincibot.git && cd invincibot
+$ git clone --recursive https://github.com/Felix-Huang11/sc2_invincibot.git && cd invincibot
 
 # Create build directory.
 $ mkdir build && cd build
